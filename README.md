@@ -5,16 +5,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sergeyshaykhullin&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
-
-<!--
-**LightVolk/LightVolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning .Net
 - 👯 I’m looking to collaborate on DeveloperPath
--->
+
 
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=sergeyshaykhullin&theme=flat&no-frame=true&margin-w=30" />
